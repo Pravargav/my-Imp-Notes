@@ -8,6 +8,9 @@ from sklearn.model_selection import train_test_split
 
 ##"C:\Users\dell\ml1\Images\agricultural"
 ##"C:\Users\dell\ml1\Images\airplane"...etc.
+
+##"C:\Users\dell\ml1\deepLearn.py"
+
 data = []
 labels = []
 paths= ['agricultural','airplane','baseballdiamond','beach','buildings','chaparral','denseresidential','forest','freeway','golfcourse','harbor','intersection','mediumresidential','mobilehomepark','overpass','parkinglot','river','runway','sparseresidential','storagetanks','tenniscourt']
