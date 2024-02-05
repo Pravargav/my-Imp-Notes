@@ -2,7 +2,8 @@
 ----------------------------
 Always open pycharm from file manager open as pycharm project then only terminal opens unless terminal cannot open as local
 
-
+#Image data generator
+----------------------------
 Imagedatagenarator doesnot add new augmented images(5) to the existing original image(1) containint directory.ie.5+1 =6 in directory is false.
 it generates 5 images of exisitin single image virtually not physically and use those 5 virtual images for training not the single image in the directory used for training.
 ->directory name: dir
