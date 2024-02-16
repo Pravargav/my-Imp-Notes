@@ -14,4 +14,5 @@ it generates 5 images of exisitin single image virtually not physically and use 
 ->but 5 virtual images generated using img.jpg virtually img1,img2...img5 and deleted automatically after training 
 
 #Input Size
+---------------------------
 ->the input size given in Image Data Generator ex-(224,224,3) must be the same size input data that should be used in Model input size like conn2d(inputssize=(244,244,3))
