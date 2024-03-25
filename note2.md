@@ -16,3 +16,13 @@ it generates 5 images of exisitin single image virtually not physically and use 
 #Input Size
 ---------------------------
 ->the input size given in Image Data Generator ex-(224,224,3) must be the same size input data that should be used in Model input size like conn2d(inputssize=(244,244,3))
+
+#Attributes order
+----------------------------
+->The order of attributes is important in nlp
+ex-(a=a,b=b,c=c) is different from(a=a,c=c,b=b)
+->that is nlp is attribute-order or permutation sensitive
+
+#Axis value in nlp
+-------------------------------
+->change the values of axis -1,0,1 etc. and check the answer in Coursera Nlp.
