@@ -8,3 +8,4 @@
           res.json([{"questionid":"","text":""}]);
 
 #for backend nodejs code get request if data.length == 0.
+#for qns.map() function error.
