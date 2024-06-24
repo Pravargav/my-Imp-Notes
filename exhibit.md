@@ -1,0 +1,5 @@
+priorities1 = ["Psychiatry"]
+priorities2 = [  "Neurology"]
+priorities3 = ["Dermatology"]
+priorities4 = ["Infectious"]
+patient_ids = ["69-0855699", "93-0120011", "75-0206485", "17-8885274"]
