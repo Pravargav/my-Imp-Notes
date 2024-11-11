@@ -75,3 +75,42 @@ public class LinkedList{
 //striver
 //Convert an array to a Linked List -google it..
 
+class ListNode {
+    int val;
+    ListNode next;
+    ListNode(int x) { val = x; }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        int[] arr = {3, 1, 4, 5, 2};
+        ListNode head = createLinkedList(arr);
+        printLinkedList(head);
+    }
+
+    public static ListNode createLinkedList(int[] arr) {
+        ListNode head = null, temp = null;
+        for (int element : arr) {
+            ListNode toAdd = new ListNode(element);
+            if (head == null) {
+                head = temp = toAdd;
+            } else {
+                temp.next = toAdd;
+                temp = temp.next;
+            }
+        }
+        return head;
+    }
+
+    public static void printLinkedList(ListNode head) {
+        while (head != null) {
+            System.out.print(head.val);
+            if (head.next != null) System.out.print(" -> ");
+            head = head.next;
+        }
+        System.out.println();
+    }
+}
+
+//naukari 
+//create a linked list from an array
