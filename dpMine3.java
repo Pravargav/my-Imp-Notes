@@ -47,24 +47,29 @@ Result = max(4, -3 + 6) = 6 return Result;
 
 
 long getAns(long *Arr, int ind, int buy, int n, vector<vector<long>> &dp) {
-    // Base case: When we reach the end of the array, there are no more decisions to make.
+   
     if (ind == n) {
         return 0;
     }
 
-    // If the result for this state has already been calculated, return it
+  
    
 
     long Result = 0;
 
-    if (buy == 0) { // We can buy the stock
+    if (buy == 0) { 
         Result = max(0 + getAns(Arr, ind + 1, 0, n, dp), -Arr[ind] + getAns(Arr, ind + 1, 1, n, dp));
     }
 
-    if (buy == 1) { // We can sell the stock
+    if (buy == 1) { 
         Result = max(0 + getAns(Arr, ind + 1, 1, n, dp), Arr[ind] + getAns(Arr, ind + 1, 0, n, dp));
     }
 
-    // Store the calculated profit in the DP table and return it
+
     return  Result;
 }
+
+//taking 2 arrays for profit ie profit1 and profit2 is equivalent to taking a 2d dynamic array of [n][2]
+//for k transactions allowed we take [n][k]
+//profit1+ profit2=> dp[n][2] that's it
+//my personal reference note on gFG solution for stock problems
