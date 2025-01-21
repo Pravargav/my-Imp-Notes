@@ -1,0 +1,2 @@
+# -> Using earphones triggers mobile usage.If you use ear phones you will get isolated from the outside world.If you don't use them you will be distracted from mobile usage by the surrounding sounds.
+# -> Reading 1/2hrs books efore sleep keeps you away from dreams or nightmares and also you will experience deep sleep.Using screen gadgets before sleep increases the chances of nigtmares and bad sleep cycle.
