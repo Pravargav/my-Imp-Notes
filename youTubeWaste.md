@@ -1,3 +1,4 @@
-# never keep your custom phone ringtones or movie bgm/songs ringtones and always use system ringtones. Using of system ringtones is class/decent as iphone users and using of custom ringtones is low class and nibba/chapri type. Using of system ringtones can trigger usage of youtube by listening to various songs.
-# Slowly stop using one category of content like taper of medicine like using 2/3 medicine for 3 weeks and 1/3 medicine 3 weeks.In the same way stop watching youtube. It's not as easy as Instagram deactivation.
-# Step1(4 weeks) -> never watch reaction channels like foreign reactions or parabram singh reactions of movies because they costed/wasted lots of time and its 100% useless. Like instagram ban parabram singh and other movie review/roast channels. 
+
+# STEP1(4 weeks)-
+    Never watch reaction channels like foreign reactions or parabram singh reactions of movies because they costed/wasted lots of time and its 100% useless. Like instagram ban parabram singh and other movie review/roast channels.
+    
