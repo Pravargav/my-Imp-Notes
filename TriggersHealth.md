@@ -7,3 +7,7 @@
 # -> Dialy 9-7 working hours.In working time you have only lunch break and out of working time you have only dinner time.
 
 # -> Use Don't Recommend this channel button on youtube.
+
+# -> never keep your custom phone ringtones or movie bgm/songs ringtones and always use system ringtones. Using of system ringtones is class/decent as iphone users and using of custom ringtones is low class and nibba/chapri type. Using of system ringtones can trigger usage of youtube by listening to various songs.
+
+# -> Slowly stop using one category of content like taper of medicine like using 2/3 medicine for 3 weeks and 1/3 medicine 3 weeks.In the same way stop watching youtube. It's not as easy as Instagram deactivation.
