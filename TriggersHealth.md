@@ -12,4 +12,4 @@
 
 # -> Slowly stop using one category of content like taper of medicine like using 2/3 medicine for 3 weeks and 1/3 medicine 3 weeks.In the same way stop watching youtube. It's not as easy as Instagram deactivation.
 
-# -> As I am twenty three year old ,I am a responsible person on this earth. So I am stopping fanism for Mahesh Babu i.e. I am not a fan of mahesh babu anymore.
+# -> As I am twenty three year old ,I am a responsible person on this earth. So I am stopping fanism for Mahesh Babu i.e. I am not a fan of mahesh babu anymore.Beacuse his fanism does'nt feed me as shown in the movie neninthe and told by my mummy & daddy .Also my brother mentioned me as bevarse for doing fanism for mahesh babu.
