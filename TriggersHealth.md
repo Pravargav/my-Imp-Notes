@@ -15,3 +15,5 @@
 # -> As I am 23 year old ,I am a responsible person on this earth. So I am stopping fanism for Mahesh Babu i.e. I am not a fan of mahesh babu anymore.Beacuse his fanism does'nt feed me as shown in the movie neninthe and told by my mummy & daddy .Also my brother mentioned me as bevarse for doing fanism for mahesh babu.
 
 # -> Do'nt watch a youtube channel all provious videos if you like single video of that channel. It may be addictive.
+
+# -> Stop watching a youtube video strictly at your first thought.At second thought it's difficult to stop scrolling.At third or fourth thought It's most difficult to control your brain.Later thoughts are useless and controlling is impossible.
