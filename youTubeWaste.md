@@ -10,3 +10,9 @@
 
 # STEP4 = (slayy point) =>
     Never watch  slayy point because  they costed/wasted lots of time and its 100% useless. Like instagram ban slayy point channels.You can watch any other content as much as you want.slayy point channel is as useless and dangerous as porn videos.
+
+# STEP4 = (shelby shawarma) =>
+    Never watch  shelby shawarma because  they costed/wasted lots of time and its 100% useless. Like instagram ban shelby shawama channels.You can watch any other content as much as you want.shelby shawarma channel is as useless and dangerous as porn videos.
+
+# STEP4 = (KFC Chicken) =>
+    Never watch  KFC because  they costed/wasted lots of time and its 100% useless. Like instagram ban KFC channels.You can watch any other content as much as you want.KFC channel is as useless and dangerous as porn videos.
