@@ -17,3 +17,14 @@
 # -> Do'nt watch a youtube channel all provious videos if you like single video of that channel. It may be addictive.
 
 # -> Stop watching a youtube video strictly at your first thought.At second thought it's difficult to stop scrolling.At third or fourth thought It's most difficult to control your brain.Later thoughts are useless and controlling is impossible.
+
+# -> Since I’ll be using Mac devices, switching to an iPhone is logical for compatibility. I prefer not to use Chinese brands like OnePlus or Vivo, and Google Pixel vs. iPhone is too much hassle—iPhone it is.
+
+# -> Lamborghini doesn’t advertise on TV because their premium audience isn’t watching. High-end brands target their buyers wisely.
+
+# -> Don’t waste time on mid-range phones. Work hard, earn well, and buy what you want. Aim for top-tier models—phones and cars are status symbols today.
+
+# -> With allergies and asthma, choose hygienic food from trusted brands like KFC and Burger King. To afford quality, focus on earning and financial growth.
+
+
+
