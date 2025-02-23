@@ -8,9 +8,7 @@ interface Cookable {
 
 class Food {
     Cookable c = new Cookable() {
-     public void cook() {
-         System.out.println("anonymous cookable implementer");
-        }
+     public void cook() { System.out.println("anonymous cookable implementer"); }
      };
  }
 ```
