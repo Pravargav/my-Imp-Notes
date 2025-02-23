@@ -1,6 +1,7 @@
 
 # -> Let’s consider below code:
 
+```java
 interface Cookable {
     public void cook();
 }
@@ -12,7 +13,7 @@ class Food {
         }
       };
  }
-
+```
  
 The preceding code creates an instance of an anonymous inner class, but here, the new just-in-time class is an implementer of the Cookable interface. And note that this is the only time you will ever see the syntax:
 
