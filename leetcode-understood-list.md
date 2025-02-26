@@ -69,4 +69,5 @@ Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlist node3[val
 -> visualise head.next= remove(head.next) as 5.next=remove(5.next) , 2.next=remove(2.next) etc.. for better understanding and visualization.
 
 `4) 234. Palindrome Linked List `
+
 `5) 203. Remove Linked List Elements`
