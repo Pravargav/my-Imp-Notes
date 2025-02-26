@@ -66,5 +66,5 @@ public class LinkedListExample {
     }
 }
 
-Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlisr node3[val,null];
+Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlist node3[val,null];
 ```
