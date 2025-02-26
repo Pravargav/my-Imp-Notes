@@ -73,3 +73,18 @@ Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlist node3[val
 `5) 203. Remove Linked List Elements`
 
 `6) 206. Reverse Linked List `
+
+```
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+```
+
+-> ListNode newNode = reverseList(head.next);  here newnode is like temp adress variable
