@@ -12,3 +12,11 @@
 -> Integer.MAX_VALUE is larger (~2.1×10^9) than 1000000007;
 
 -> 10^9+7 fulfills both the criteria. It is the first 10-digit prime number and fits in int data type as well. In fact, any prime number less than 2^30 will be fine in order to prevent possible overflows.
+
+-> 1,000,000,009 (✅ Prime)
+1,000,000,033 (✅ Prime)
+1,000,000,039 (✅ Prime)
+1,000,000,051 (✅ Prime)
+1,000,000,061 (✅ Prime)
+
+-> 10 ^9+9=1,000,000,009 is also a frequently used prime in modular computations.
