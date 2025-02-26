@@ -71,3 +71,5 @@ Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlist node3[val
 `4) 234. Palindrome Linked List `
 
 `5) 203. Remove Linked List Elements`
+
+`6) 206. Reverse Linked List `
