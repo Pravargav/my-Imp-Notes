@@ -43,8 +43,8 @@
  * }
  */
 
-public class LinkedListExample {
-    public static ListNode createSampleLinkedList() {
+public class List {
+    public static ListNode createSample() {
         // Creating nodes
         ListNode node3 = new ListNode(3);
         ListNode node2 = new ListNode(2, node3);
@@ -55,14 +55,11 @@ public class LinkedListExample {
     }
 
     public static void main(String[] args) {
-        ListNode head = createSampleLinkedList();
-        
-        // Printing the linked list
+        ListNode head = createSample();
         while (head != null) {
             System.out.print(head.val + " -> ");
             head = head.next;
         }
-        System.out.println("null");
     }
 }
 
