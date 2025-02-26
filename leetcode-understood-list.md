@@ -27,3 +27,44 @@
 -> 10 ^9+9=1,000,000,009 is also a frequently used prime in modular computations.
 
 -> https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
+
+
+`3) 2487. Remove Nodes From Linked List`
+
+```
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+
+public class LinkedListExample {
+    public static ListNode createSampleLinkedList() {
+        // Creating nodes
+        ListNode node3 = new ListNode(3);
+        ListNode node2 = new ListNode(2, node3);
+        ListNode node1 = new ListNode(1, node2);
+        
+        // Returning the head of the linked list
+        return node1;
+    }
+
+    public static void main(String[] args) {
+        ListNode head = createSampleLinkedList();
+        
+        // Printing the linked list
+        while (head != null) {
+            System.out.print(head.val + " -> ");
+            head = head.next;
+        }
+        System.out.println("null");
+    }
+}
+
+Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlisr node3[val,null];
+```
