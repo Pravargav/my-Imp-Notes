@@ -20,3 +20,5 @@
 1,000,000,061 (✅ Prime)
 
 -> 10 ^9+9=1,000,000,009 is also a frequently used prime in modular computations.
+
+-> https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
