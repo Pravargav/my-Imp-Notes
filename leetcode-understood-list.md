@@ -92,3 +92,10 @@ Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlist node3[val
 `7) 21. Merge Two Sorted Lists `
 
 `8) 143. Reorder List `
+
+`9) 231. Power of Two`
+
+`10) 326. Power of Three `
+
+`11) 342. Power of Four `
+
