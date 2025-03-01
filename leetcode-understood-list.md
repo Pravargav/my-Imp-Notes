@@ -90,3 +90,5 @@ Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlist node3[val
 -> ListNode newNode = reverseList(head.next);  here newnode is like temp adress variable
 
 `7) 21. Merge Two Sorted Lists `
+
+`8) 143. Reorder List `
