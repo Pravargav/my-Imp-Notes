@@ -99,3 +99,10 @@ Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlist node3[val
 
 `11) 342. Power of Four `
 
+`12) 50. Pow(x, n) `
+
+-> 323 - odd i.e. 323-1 = 322
+-> 322 - even i.e. 322/2 = 161
+-> 161 - odd i.e. 161-1 = 160
+.....
+
