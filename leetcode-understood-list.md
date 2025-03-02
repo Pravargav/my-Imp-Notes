@@ -106,3 +106,4 @@ Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlist node3[val
 -> 161 - odd i.e. 161-1 = 160
 .....
 
+returun type double for fun(x*x) / x*fun() calls
