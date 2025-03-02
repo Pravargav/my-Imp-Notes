@@ -107,3 +107,17 @@ Linkedlist node1[val1,node2]; Linkedlist node2[val1,node3]; Linkedlist node3[val
 .....
 
 returun type double for fun(x*x) / x*fun() calls
+
+write function call as double t = fun(x*x,n/2) or double t = x*fun(x,n-1) and then return t;
+note: 
+```
+double t = x*fun(x,n-1);
+return t;
+```
+
+equivalent to 
+
+```
+return x* fun(x,n-1);
+
+```
