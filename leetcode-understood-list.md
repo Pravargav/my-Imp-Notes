@@ -130,4 +130,8 @@ return x* fun(x,n-1);
 
 `15) 2. Add Two Numbers`
 
+`16) 1922. Count Good Numbers`
+
+
+
 
