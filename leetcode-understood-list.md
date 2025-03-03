@@ -148,7 +148,7 @@ for every mod problem....
 
 
 
-`18) 1545. Find Kth Bit in Nth Binary String`
+`19) 1545. Find Kth Bit in Nth Binary String`
 
 
 
