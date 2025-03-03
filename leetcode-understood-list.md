@@ -127,3 +127,6 @@ return x* fun(x,n-1);
 -> https://stackoverflow.com/questions/58295981/can-someone-explain-how-the-modulus-work
 
 `14) 509. Fibonacci Number`
+
+`15) 2. Add Two Numbers`
+
