@@ -144,6 +144,8 @@ return x* fun(x,n-1);
 
 for every mod problem....
 
+`18) 1545. Find Kth Bit in Nth Binary String`
+
 
 
 
