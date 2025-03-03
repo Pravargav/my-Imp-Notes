@@ -132,6 +132,18 @@ return x* fun(x,n-1);
 
 `16) 1922. Count Good Numbers`
 
+`17) 1969. Minimum Non-Zero Product of the Array Elements`
+
+
+
+-> addition operation - write every variable `x` as `(x+mod)%mod;` 
+
+-> multiplication operation - write every multiplication operation ```x*x``` as ```((x+mod)%mod * (x+mod)%mod)%mod;```
+
+-> function calls operation - write function calls return ```x*rec(x,n-1)``` as ``` return ((x+mod)%mod * (rec((x+mod)%mod, (n - 1)))%mod)%mod; ```
+
+for every mod problem....
+
 
 
 
