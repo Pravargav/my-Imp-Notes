@@ -19,6 +19,8 @@
 
 ->recurrsive(level order)
 ```java
+//adding new empty arrayList to arraylist of arraylist is following dfs approach only
+//adding value/data by getting getLevel() at required point  makes the list of list like bfs
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
