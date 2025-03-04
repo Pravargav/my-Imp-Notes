@@ -84,4 +84,6 @@ class Solution {
 
 `5)101. Symmetric Tree`
 
+`6)104. Maximum Depth of Binary Tree`
+
 
