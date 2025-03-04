@@ -17,3 +17,62 @@
 
 ->https://www.geeksforgeeks.org/level-order-tree-traversal/
 
+->recurrsive(level order)
+```java
+class Solution {
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        List<List<Integer>> res = new ArrayList<>();
+        levelOrderRec(root, 0, res);
+        return res;
+    }
+
+    void levelOrderRec(TreeNode root, int level, List<List<Integer>> res) {
+        if (root == null)
+            return;
+
+        if (res.size() <= level)
+            res.add(new ArrayList<>());
+
+        res.get(level).add(root.val);
+
+        levelOrderRec(root.left, level + 1, res);
+        levelOrderRec(root.right, level + 1, res);
+    }
+}
+```
+
+->recurrsive(level order print)
+
+```java
+	void LevelOrder()
+	{
+        int h = height(root);
+        int i;
+        for (i=1; i<=h; i++)
+            CurrentLevel(root, i);
+	}
+	int height(Node root) {
+    	if (root == null)
+        	  return 0; 
+    	else {
+       		int lheight = height(root.left);
+       		int rheight = height(root.right);
+       		if (lheight > rheight)
+            	return(lheight+1);
+       		else return(rheight+1);
+    	}
+	}
+	void CurrentLevel (Node root ,int level) {
+     	if (root == null){
+        	    return;
+		}
+     	if (level == 1){
+        	  System.out.print(root.data + " ");
+		}
+     	else if (level > 1) {
+        	CurrentLevel(root.left, level-1);
+        	CurrentLevel(root.right, level-1);
+     	 }
+	}
+```
+
