@@ -86,4 +86,4 @@ class Solution {
 
 `6)104. Maximum Depth of Binary Tree`
 
-
+`7)111. Minimum Depth of Binary Tree`
