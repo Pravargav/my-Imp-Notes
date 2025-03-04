@@ -81,3 +81,7 @@ class Solution {
 `4)100. Same Tree`
 
 -> always remember use always lot of &&'s , ||'s in any boolean return type sums
+
+`5)101. Symmetric Tree`
+
+
