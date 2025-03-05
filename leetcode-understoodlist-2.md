@@ -89,3 +89,7 @@ class Solution {
 `7)111. Minimum Depth of Binary Tree`
 
 `8)112. Path Sum`
+
+`9)2236. Root Equals Sum of Children`
+
+
