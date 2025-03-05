@@ -94,6 +94,29 @@ class Solution {
 
 `10)2331. Evaluate Boolean Binary Tree`
 
+`11)1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree`
+
+```java
+    public TreeNode fun(TreeNode t,TreeNode target){
+        
+        if(t==null){
+            return t;
+        }
+        if(isSameTree(t,target)){
+            return t;
+        }
+        TreeNode l=fun(t.left,target);
+        if(l!=null){
+            return l;
+        }
+        return fun(t.right,target);
+    }
+```
+-> traversing and return type of TreeNode( backtracking rather than void datatype return like treeNode,LinkedList etc...)
+
+`12)1022. Sum of Root To Leaf Binary Numbers`
+
+
 
 
 
