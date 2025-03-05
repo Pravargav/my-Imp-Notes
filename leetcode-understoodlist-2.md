@@ -114,6 +114,35 @@ class Solution {
 ```
 -> traversing and return type of TreeNode( backtracking rather than void datatype return like treeNode,LinkedList etc...)
 
+```
+        5
+       / \
+      3   8
+     / \   \
+    1   4   10
+```
+
+->3rd Call: findNode(1, 4)
+->root = 1 (not 4)
+->Calls findNode(null, 4) for left child → Returns null
+->Calls findNode(null, 4) for right child → Returns null
+
+
+->Since both left and right returned null, there is no match in 1's subtree.
+->Return null to its caller (findNode(3, 4)).
+->Back to 2nd Call (findNode(3, 4))
+
+```
+Tree left = find(3,4)
+//returned null is assigned to left ,here if left not null return left.But left is null here so return right i.e find(4,4)
+if(left!=null)
+  return left;
+return find(4,4);
+```
+->findNode(1, 4) returned null, meaning 4 is not in the left subtree of 3.
+->Now, call findNode(4, 4) to search the right subtree of 3.
+
+
 `12)1022. Sum of Root To Leaf Binary Numbers`
 
 
