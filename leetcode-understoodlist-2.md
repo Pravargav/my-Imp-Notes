@@ -92,4 +92,8 @@ class Solution {
 
 `9)2236. Root Equals Sum of Children`
 
+`10)2331. Evaluate Boolean Binary Tree`
+
+
+
 
