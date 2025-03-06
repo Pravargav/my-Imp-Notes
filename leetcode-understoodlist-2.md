@@ -43,41 +43,6 @@ class Solution {
 }
 ```
 
-->recurrsive(level order print)
-
-```java
-	void LevelOrder()
-	{
-        int h = height(root);
-        int i;
-        for (i=1; i<=h; i++)
-            CurrentLevel(root, i);
-	}
-	int height(Node root) {
-    	if (root == null)
-        	  return 0; 
-    	else {
-       		int lheight = height(root.left);
-       		int rheight = height(root.right);
-       		if (lheight > rheight)
-            	return(lheight+1);
-       		else return(rheight+1);
-    	}
-	}
-	void CurrentLevel (Node root ,int level) {
-     	if (root == null){
-        	    return;
-		}
-     	if (level == 1){
-        	  System.out.print(root.data + " ");
-		}
-     	else if (level > 1) {
-        	CurrentLevel(root.left, level-1);
-        	CurrentLevel(root.right, level-1);
-     	 }
-	}
-```
-
 `4)100. Same Tree`
 
 -> always remember use always lot of &&'s , ||'s in any boolean return type sums
@@ -145,7 +110,6 @@ return find(4,4);
 
 `12)1022. Sum of Root To Leaf Binary Numbers`
 
-
-
+`13)965. Univalued Binary Tree`
 
 
