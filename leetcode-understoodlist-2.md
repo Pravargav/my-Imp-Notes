@@ -116,6 +116,21 @@ return find(4,4);
 
 `15)872. Leaf-Similar Trees`
 
+`16)226. Invert Binary Tree`
 
+-> same formula we used for linked list(swapping) and Treenode return sums **i.e. take temporary vairable temp of type TreeNode/linked list and swap like swap elements in array** using temp.
 
+```java
+    public TreeNode invertTree(TreeNode root) {
+        if(root==null){
+            return null;
+        }
+        TreeNode t= invertTree(root.left);
+        root.left=invertTree(root.right);
+        root.right=t;
+        return root;
+        
+    }
+
+```
 
