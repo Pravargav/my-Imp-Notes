@@ -15,8 +15,12 @@
         } else {
             // If root matches with the given key
 
-            // Cases when root has 0 children or
-            // only right child
+            // Case when root has 0 children
+              if (root.left == null&&root.right == null) {
+                return root.right;
+            }
+            
+            // When root has only right child
             if (root.left == null) {
                 return root.right;
             }
