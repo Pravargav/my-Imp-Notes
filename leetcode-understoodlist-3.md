@@ -52,3 +52,30 @@
 
 
 ```
+**Apna college(Insertion in Bst)**
+
+```java
+    TreeNode insert(Node root, int key)
+    {
+
+        // If the tree is empty, return a new node
+        if (root == null)
+            return new Node(key);
+
+        // If the key is already present in the tree,
+        // return the node
+        if (root.key == key)
+            return root;
+
+        // Otherwise, recur down the tree
+        if (key < root.key)
+            root.left = insert(root.left, key);
+        else
+            root.right = insert(root.right, key);
+
+        // Return the (unchanged) node pointer
+        return root;
+    }
+
+```
+
