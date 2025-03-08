@@ -27,7 +27,7 @@
             }
 
             // When both children are present
-            Node succ = getSuccessor(root);
+            TreeNode succ = getSuccessor(root);
             root.key = succ.key;
             root.right = delNode(root.right, succ.key);
         }
