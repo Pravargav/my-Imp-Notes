@@ -136,3 +136,21 @@ return find(4,4);
 `17)671. Second Minimum Node In a Binary Tree`
 
 
+`18)938. Range Sum of BST`
+
+```java
+public int rangeSumBST(TreeNode root, int low, int high) {
+        if(root==null){
+            return 0;
+        }
+        
+        int k=rangeSumBST(root.left,low,high);
+        int sum=0;
+        if(root.val<=high&&root.val>=low){
+            sum+=root.val;
+        }
+        int l=rangeSumBST(root.right,low,high);
+        return k+sum+l;
+    }
+```
+
