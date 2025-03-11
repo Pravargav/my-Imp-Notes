@@ -156,3 +156,4 @@ public int rangeSumBST(TreeNode root, int low, int high) {
 
 `19)404. Sum of Left Leaves`
 
+`20)1305. All Elements in Two Binary Search Trees`
