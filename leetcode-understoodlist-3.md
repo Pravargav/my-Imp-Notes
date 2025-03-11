@@ -1,4 +1,6 @@
 **Apna college(Deletion in Bst)**
+`450. Delete Node in a BST`
+
 ```java
     TreeNode delNode(TreeNode root, int x) {
       
@@ -53,6 +55,7 @@
 
 ```
 **Apna college(Insertion in Bst)**
+`701. Insert into a Binary Search Tree`
 
 ```java
     TreeNode insert(Node root, int key)
@@ -80,6 +83,7 @@
 ```
 
 **Apna college(Search in Bst)**
+`700. Search in a Binary Search Tree`
 
 ```java
     TreeNode search(TreeNode root, int key)
