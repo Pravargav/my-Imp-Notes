@@ -159,3 +159,25 @@ public int rangeSumBST(TreeNode root, int low, int high) {
 `20)1305. All Elements in Two Binary Search Trees`
 
 `21)1008. Construct Binary Search Tree from Preorder Traversal`
+
+```java
+    int sum = 0;
+    public TreeNode bstToGst(TreeNode root) {
+        convert(root);
+        return root;
+    }
+    
+    public void convert(TreeNode cur) {
+        if (cur == null) return;
+        convert(cur.right);
+        cur.val += sum;
+        sum = cur.val;
+        convert(cur.left);
+    }
+```
+->traverse and change all values and finlly return root
+
+`22)538. Convert BST to Greater Tree`
+
+`23)1038. Binary Search Tree to Greater Sum Tree`
+
