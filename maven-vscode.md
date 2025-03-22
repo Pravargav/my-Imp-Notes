@@ -5,4 +5,9 @@
 # -> Install apache maven and place the unzipped in c/programfiles location(same as apache tomcat server).Then copy the bin path and add to the edit envirment variable as MVN_HOME(same as JAVA_HOME JDK more than 11 versions). Then mvn command and mvn clean works.
 
 # -> `mvn clean package` command in the project directory location creates the target file.
- 
+
+# -> https://code.visualstudio.com/docs/java/java-tomcat-jetty
+
+# -> Working with Application Servers in VS Code 
+
+# -> use server actions(open in browser first link) then add deployment then server then server actions(open in browser second link) then publish server(full)
