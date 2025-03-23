@@ -11,3 +11,5 @@
 # -> Working with Application Servers in VS Code 
 
 # -> use server actions(open in browser first link) then add deployment then server then server actions(open in browser second link) then publish server(full)
+
+# -> don't use the relocated from versions of dependancies , use only relocated to versions of dependancy .Else you will get lot of errors in packaging.
