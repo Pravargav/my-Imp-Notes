@@ -15,3 +15,5 @@
 # -> don't use the relocated from versions of dependancies , use only relocated to versions of dependancy .Else you will get lot of errors in packaging.
 
 # -> some dependancies already included in other dependancies.No need to import those dependancies.Ex jakarta persistance included in org.hibernate.orm.
+
+# -> never comment code in jsp files as it reads comments also and take the comments also into conideration.It will not run and give lot of errors.
